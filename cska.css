@@ -1,0 +1,33 @@
+body {
+background-color: #D5DBDB;
+}
+h1 {
+text-align: center;
+font-size: 300%;
+color: #E74C3C;
+}
+p {
+font-family: cursive;
+font-size: 175%;
+text-align: center;
+}
+img {
+width: 400px;
+height: 510px;
+align: center;
+}
+.div1 {
+clear: both;
+align: center;
+}
+#links {
+text-align: center;
+font-size: 50px;
+}
+#div2 {
+float: left;
+}
+#div3 {
+float: left;
+width: 600px;
+}
